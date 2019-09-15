@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Advanced (HarmonyAdvanced.exe) version 17.0.0 build 14765 2019-06-07 14:20:17" version="1700" build="14765" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 17.0.0 build 14765 2019-06-07 14:20:17" version="1700" build="14765" creator="harmony">
  <elements>
   <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
-    <dwg name="2"/>
    </drawings>
   </element>
  </elements>
@@ -26,7 +25,6 @@
    <columns>
     <column type="0" name="Drawing" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
-     <elementSeq exposures="2" val="2" id="1"/>
     </column>
    </columns>
    <options>
