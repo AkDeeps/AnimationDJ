@@ -24,3 +24,4 @@ Texture  Square                     0x04fec2288848291b Tile
 Texture  Stringy                    0x04fec2288848292f Tile
 Texture  Stringy_Soft               0x04fec22888482943 Tile
 Texture  Wiggly_Fat                 0x04fec22888482957 Tile
+Texture  Texture1                   0x09d3d3b9fbd4e647 Tile

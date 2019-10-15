@@ -1,0 +1,8 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Default                    0x09d240fb1fe5d580   0   0   0 255
+Gradient "New 0"                    0x09d240fb1fe5d655 Radial 
+{        0.0 255 245 245 255,
+        83.6 247 214 114 255 }
+Solid    "New 1"                    0x09d240fb1fe84dce 255 230 160 255
+Solid    "New 2"                    0x09d240fb1fe89266 252 239 202 255
+Solid    "New 3"                    0x09d240fb1fe8ccf3 252 239 202 255
